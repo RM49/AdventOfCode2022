@@ -8,4 +8,6 @@ Day 6 part 2:
    popping the values was part of an unfinished idea before the counter solution, as the idea was to index the final wanted value of the list meaning all duplicates of the wanted letter needed to be removed before. However count was used instead of index.  
   
 Day 7:  
-  Difficult puzzle. used recursion to total the file sizes. Represented directories in lists and sublists rather than a tree
+  Difficult puzzle. used recursion to total the file sizes. Represented directories in lists and sublists rather than a tree  
+Day 8:  
+good puzzle, required a lot of thought, created a visibility matrix similar to adjacency matrices in descision maths  
