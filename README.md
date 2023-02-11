@@ -11,3 +11,5 @@ Day 7:
   Difficult puzzle. used recursion to total the file sizes. Represented directories in lists and sublists rather than a tree  
 Day 8:  
 good puzzle, required a lot of thought, created a visibility matrix similar to adjacency matrices in descision maths  
+Day 9:  
+part 1 took a long time as i unnessessarily overcomplicated the puzzle by trying to simulate the rope moving using expanding 2d arrays(lists of lists). Eventually gave up on that and used a coordinate based solution which was much easier, took around 20 minutes compared to several hours over two seperate weekends.  
